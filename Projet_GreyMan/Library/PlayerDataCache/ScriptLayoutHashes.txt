@@ -182,6 +182,7 @@ b11448bc44f49db3e26525de9acc4a98 TextMeshPro-2017.2-1.0.56-Editor.dll:TMPro.Edit
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:TMPro.Examples.TeleType
 8a50d3d11bf0cc541f5c35347dd25633 Assembly-CSharp.dll:TMPro.Examples.ShaderPropAnimator
 667553ab9d58acab61c517659ad8c4b6 Assembly-CSharp.dll:.rayman_controller1
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.piquescripts
 76015de5fcb247eeb8df66c001d5a22d Assembly-CSharp.dll:TMPro.Examples.TMP_FrameRateCounter
 b8f04bdad423045528c67dfa4c3dca0d Assembly-CSharp.dll:TMPro.Examples.VertexShakeA
 82bad9ead241b787b087a6162215bb77 Assembly-CSharp.dll:.plateforme
@@ -232,4 +233,3 @@ af7666733efcc974926d7d470e1732a6 Assembly-CSharp.dll:TMPro.Examples.SkewTextExam
 aa967294dbcfdf742abe96cc0410c392 Assembly-CSharp.dll:.cubedestuctible
 34e025057ef78b1bf238460cdf6583a3 Assembly-CSharp.dll:TMPro.Examples.ObjectSpin
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:TMPro.Examples.SimpleScript
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.piquescripts
